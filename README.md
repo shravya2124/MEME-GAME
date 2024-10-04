@@ -19,3 +19,6 @@ The code will be deployed and hosted in S3.
 
 ## The Deployment Pipeline
 The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code from GitHub, and deploys it to S3 whenever a change is detected in the code.
+
+LINK FOR THE GAME
+http://my-meme-bucket-083.s3-website.eu-north-1.amazonaws.com/
